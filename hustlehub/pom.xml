@@ -45,13 +45,11 @@
 			<scope>runtime</scope>
 		</dependency>
 		<dependency>
-<<<<<<< HEAD
+
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-security</artifactId>
 		</dependency>
 		<dependency>
-=======
->>>>>>> 53d7a84579d9d43e580542cb2354b524a70f8bf6
 			<groupId>org.projectlombok</groupId>
 			<artifactId>lombok</artifactId>
 			<optional>true</optional>
