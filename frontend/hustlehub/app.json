@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "hustlehub",
+    "slug": "hustlehub",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.jpg",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#E6F4FE",
+        "foregroundImage": "./assets/android-icon-foreground.jpg",
+        "backgroundImage": "./assets/android-icon-background.jpg",
+        "monochromeImage": "./assets/android-icon-monochrome.jpg"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.jpg"
+    }
+  }
+}
